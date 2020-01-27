@@ -1,0 +1,9 @@
+{
+  "name": "hashkey-exchange-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "dependencies": {
+    "ws": "7.2.1"
+  }
+}
